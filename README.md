@@ -69,3 +69,5 @@ Thực hiện thiết kế mô hình hình sao (Star schema)
 ![StarChema](https://github.com/lephuocyen20/Build-a-Data-Platform-with-Open-Source/assets/134000205/43f6af51-27ea-4ea8-9dce-8236c43fc04b)
 
 Cách thực hiện mình đã đính kèm theo trong file word trong thư mục report.
+
+Cuối cùng đây là video báo cáo của nhóm: https://drive.google.com/drive/folders/1VgWU4ulFDPCmzToFqp-kjijxcKtl-c9R
